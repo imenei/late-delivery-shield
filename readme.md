@@ -1,10 +1,9 @@
 #  Supply Chain Delivery Risk Predictor
 
-### *Catch late deliveries before they happen — with a production-grade, zero-leakage ML pipeline*
+### *Zero-leakage ML pipeline that flags delivery risk at order placement — before the warehouse even moves*
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Status](https://img.shields.io/badge/Status-Production--Ready-brightgreen)]()
-[![License](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
 [![ML Framework](https://img.shields.io/badge/ML-XGBoost%20%7C%20LightGBM%20%7C%20CatBoost-orange)]()
 [![Optimization](https://img.shields.io/badge/HPO-Optuna-blueviolet)]()
 [![Interpretability](https://img.shields.io/badge/Explainability-SHAP-yellow)]()
