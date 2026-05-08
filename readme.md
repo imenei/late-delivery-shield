@@ -131,7 +131,7 @@ Bayesian SHAP-based selection reduced the feature space from 38 to an optimal su
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 supply-chain-ml-pipeline/
@@ -197,7 +197,7 @@ print(f"Delay Risk: {'⚠️ HIGH' if pred == 1 else '✅ LOW'} ({proba:.1%} pro
 
 ---
 
-## 🧠 Key Learnings
+##  Key Learnings
 
 **On pipeline discipline:**
 Enforcing a strict split-first protocol — then fitting every transformer (imputer, encoder, scaler, SMOTE) exclusively on training data — is the difference between a research demo and a trustworthy model. Leakage detection before modeling is non-negotiable.
